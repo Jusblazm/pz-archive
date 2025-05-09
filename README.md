@@ -12,6 +12,6 @@ This will allow you to keep a specific set of bandits available even when the mo
 For bandits that add modded gear, specifically modded equipment slots like Cerberus and Lynx, you will still need my integration mod installed and enabled, as it includes extensions to Slayer's Bandits mod that allow the modded bandits to spawn correctly.
 
 ## Credits 
-The Indie Stone for Project Zomboid.
-Slayer for the fantastic Bandits mod and BanditsCreator.
+The Indie Stone for [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/).\
+Slayer for the fantastic [Bandits NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) mod and [BanditsCreator](https://steamcommunity.com/sharedfiles/filedetails/?id=3469292499).\
 My little brother for begging me to make the first mod (PONCHOGANG).
