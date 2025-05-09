@@ -1,7 +1,17 @@
 # Jusblazm's Bandits Archive
 
- if you liked a specific set of bandits, you can find them here and add them locally.
+if you liked a specific set of bandits, you can find them here and add them locally.
 
 Each directory is dedicated to a specific mod\
 Inside each directory will be another labeled after a mod version\
 Inside the versioning will be the `bandits.txt` and `clans.txt` that belong to the respective mods.
+
+These files can be stored locally in your Users\Zomboid folder. I.E. `C:\Users\<Jusblazm>\Zomboid\Lua\bandits`\
+This will allow you to keep a specific set of bandits available even when the mod next updates.
+
+For bandits that add modded gear, specifically modded equipment slots like Cerberus and Lynx, you will still need my integration mod installed and enabled, as it includes extensions to Slayer's Bandits mod that allow the modded bandits to spawn correctly.
+
+## Credits 
+The Indie Stone for Project Zomboid.
+Slayer for the fantastic Bandits mod and BanditsCreator.
+My little brother for begging me to make the first mod (PONCHOGANG).
