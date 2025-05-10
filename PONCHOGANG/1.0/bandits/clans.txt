@@ -9,7 +9,7 @@
 	spawn: roadblock = false
 	spawn: dayStart = 1
 	spawn: dayEnd = 1000
-	spawn: spawnChance = 60
+	spawn: spawnChance = 0.5
 	spawn: groupMin = 6
 	spawn: groupMax = 20
 	spawn: zone = 0
