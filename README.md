@@ -1,4 +1,5 @@
 # Jusblazm's Bandits Archive
+All my mods on Steam: [Jusblazm's Project Zomboid Workshop](https://steamcommunity.com/id/jusblazm/myworkshopfiles/?appid=108600)
 if you liked a specific set of bandits, you can find them here and add them locally.
 
 Each directory is dedicated to a specific mod\
