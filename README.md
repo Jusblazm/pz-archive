@@ -18,7 +18,7 @@ For bandits that add modded gear, specifically modded equipment slots like Cerbe
 In alphabetical order after TIS and Slayer, as this project would not be possible without either.\
 My little brother for begging me to make the first mod, PONCHOGANG.\
 The Indie Stone for [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/).\
-Slayer for the fantastic [Bandits NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) mod and [BanditsCreator](https://steamcommunity.com/sharedfiles/filedetails/?id=3469292499).\
+Slayer for the fantastic [Bandits NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) mod and [Bandits Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=3469292499).\
 Athens111, Healdiver, and bubby_pz33 for [Support Goods](https://steamcommunity.com/sharedfiles/filedetails/?id=3434464110).\
 goatdog420 for [Military Ponchos: Reloaded](https://steamcommunity.com/sharedfiles/filedetails/?id=3439247001), which is an extension of Akyet's [Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881).\
 Kuma Khan and Bianca for [Funny Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=3285337538).\
