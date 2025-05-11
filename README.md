@@ -20,4 +20,5 @@ goatdog420 for [Military Ponchos: Reloaded](https://steamcommunity.com/sharedfil
 Kuma Khan and Bianca for [Funny Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=3285337538).\
 spongie for [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)
 Tango for [Vanilla Gear Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3401134276).\
-TTAJ1bl4 for [Cerberus Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470478700) and [Lynx Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470485566).
+TTAJ1bl4 for [Cerberus Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470478700) and [Lynx Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470485566).\
+Wayne for [US Military Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=612100872).
