@@ -22,6 +22,7 @@ Slayer for the fantastic [Bandits NPC](https://steamcommunity.com/sharedfiles/fi
 Athens111, Healdiver, and bubby_pz33 for [Support Goods](https://steamcommunity.com/sharedfiles/filedetails/?id=3434464110).\
 goatdog420 for [Military Ponchos: Reloaded](https://steamcommunity.com/sharedfiles/filedetails/?id=3439247001), which is an extension of Akyet's [Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881).\
 Kuma Khan and Bianca for [Funny Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=3285337538).\
+Lillie for [Lillie's Enhanced Militaria](https://steamcommunity.com/sharedfiles/filedetails/?id=3396622780).\
 spongie for [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534).\
 Tango for [Vanilla Gear Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3401134276).\
 TTAJ1bl4 for [Cerberus Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470478700) and [Lynx Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3470485566).\
