@@ -21,6 +21,7 @@ The Indie Stone for [Project Zomboid](https://store.steampowered.com/app/108600/
 Slayer for the fantastic [Bandits NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) mod and [Bandits Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=3469292499).\
 Athens111, Healdiver, and bubby_pz33 for [Support Goods](https://steamcommunity.com/sharedfiles/filedetails/?id=3434464110).\
 Goatdog420 for [Military Ponchos: Reloaded](https://steamcommunity.com/sharedfiles/filedetails/?id=3439247001), which is an extension of Akyet's [Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881).\
+Jordanal and Galodar for [Caution Uniform](https://steamcommunity.com/sharedfiles/filedetails/?id=3369825662) and [Trauma Responder Uniform](https://steamcommunity.com/sharedfiles/filedetails/?id=3443982326).\
 Kuma Khan and Bianca for [Funny Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=3285337538).\
 Lillie for [Lillie's Enhanced Militaria](https://steamcommunity.com/sharedfiles/filedetails/?id=3396622780).\
 NSE for [I Need More Style: Clothing Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2861393067).\
