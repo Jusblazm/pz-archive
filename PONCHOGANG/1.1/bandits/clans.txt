@@ -1,0 +1,16 @@
+[6a757372-241b-42a3-ae89-706f6e63686f]
+	general: name = PONCHO_GANG
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = false
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = false
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 0.5
+	spawn: groupMin = 6
+	spawn: groupMax = 20
+	spawn: zone = 0
+
