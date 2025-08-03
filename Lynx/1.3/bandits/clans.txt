@@ -1,0 +1,16 @@
+[6a757372-cc47-43d0-bea3-90596c796e78]
+	general: name = Jus_LYNX_RANDOM
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = true
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = true
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 2
+	spawn: groupMin = 2
+	spawn: groupMax = 6
+	spawn: zone = 0
+

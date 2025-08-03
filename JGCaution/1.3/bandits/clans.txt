@@ -1,0 +1,16 @@
+[6a757372-db28-41c9-bb22-18e7d163746e]
+	general: name = Jus_CAUTION_RANDOM
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = true
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = true
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 2
+	spawn: groupMin = 2
+	spawn: groupMax = 6
+	spawn: zone = 0
+

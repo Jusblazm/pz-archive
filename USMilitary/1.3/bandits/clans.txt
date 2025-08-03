@@ -1,0 +1,16 @@
+[6a757372-cbaf-4807-b102-b975736d696c]
+	general: name = Jus_USMil_RANDOM
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = true
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = true
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 2
+	spawn: groupMin = 2
+	spawn: groupMax = 6
+	spawn: zone = 0
+

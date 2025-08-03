@@ -1,0 +1,16 @@
+[6a757372-e87e-4f46-80e3-9566756e6e79]
+	general: name = Jus_COSTUME_GANG
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = false
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = false
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 0.5
+	spawn: groupMin = 6
+	spawn: groupMax = 20
+	spawn: zone = 0
+
