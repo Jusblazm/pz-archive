@@ -1,0 +1,16 @@
+[6a757372-be65-4268-85b8-667266676874]
+	general: name = Jus_FIREFIGHTER_RANDOM
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = true
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = true
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 2
+	spawn: groupMin = 2
+	spawn: groupMax = 6
+	spawn: zone = 0
+
