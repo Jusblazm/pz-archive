@@ -1,0 +1,16 @@
+[6a757372-7b74-43ae-b222-845d6e656f6e]
+	general: name = Jus_NEON_RANDOM
+	spawn: friendly = true
+	spawn: companion = true
+	spawn: defenders = true
+	spawn: campers = true
+	spawn: assault = false
+	spawn: wanderer = true
+	spawn: roadblock = true
+	spawn: dayStart = 1
+	spawn: dayEnd = 1000
+	spawn: spawnChance = 2
+	spawn: groupMin = 2
+	spawn: groupMax = 6
+	spawn: zone = 0
+
